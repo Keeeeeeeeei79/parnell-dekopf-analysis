@@ -1,0 +1,87 @@
+Topic,Category,Subgroup,Area,Year,Value,Unit
+Median Income,15-29 years,,Parnell,2013,27100,NZD
+Median Income,15-29 years,,New Zealand,2013,12600,NZD
+Median Income,15-29 years,,Parnell,2018,19900,NZD
+Median Income,15-29 years,,New Zealand,2018,17200,NZD
+Median Income,15-29 years,,Parnell,2023,16200,NZD
+Median Income,15-29 years,,New Zealand,2023,25000,NZD
+Median Income,30-64 years,,Parnell,2013,67000,NZD
+Median Income,30-64 years,,New Zealand,2013,39600,NZD
+Median Income,30-64 years,,Parnell,2018,72000,NZD
+Median Income,30-64 years,,New Zealand,2018,45300,NZD
+Median Income,30-64 years,,Parnell,2023,86000,NZD
+Median Income,30-64 years,,New Zealand,2023,57900,NZD
+Median Income,65 years and over,,Parnell,2013,45500,NZD
+Median Income,65 years and over,,New Zealand,2013,20900,NZD
+Median Income,65 years and over,,Parnell,2018,50000,NZD
+Median Income,65 years and over,,New Zealand,2018,22500,NZD
+Median Income,65 years and over,,Parnell,2023,50700,NZD
+Median Income,65 years and over,,New Zealand,2023,26600,NZD
+Ethnicity,European,,Parnell,2013,81.1,percent
+Ethnicity,European,,New Zealand,2013,74,percent
+Ethnicity,European,,Parnell,2018,77.2,percent
+Ethnicity,European,,New Zealand,2018,70.2,percent
+Ethnicity,European,,Parnell,2023,71.6,percent
+Ethnicity,European,,New Zealand,2023,67.8,percent
+Ethnicity,Maori,,Parnell,2013,5,percent
+Ethnicity,Maori,,New Zealand,2013,14.9,percent
+Ethnicity,Maori,,Parnell,2018,4.8,percent
+Ethnicity,Maori,,New Zealand,2018,16.5,percent
+Ethnicity,Maori,,Parnell,2023,6.9,percent
+Ethnicity,Maori,,New Zealand,2023,17.8,percent
+Ethnicity,Pacific Peoples,,Parnell,2013,2,percent
+Ethnicity,Pacific Peoples,,New Zealand,2013,7.4,percent
+Ethnicity,Pacific Peoples,,Parnell,2018,2.1,percent
+Ethnicity,Pacific Peoples,,New Zealand,2018,8.1,percent
+Ethnicity,Pacific Peoples,,Parnell,2023,2.6,percent
+Ethnicity,Pacific Peoples,,New Zealand,2023,8.9,percent
+Ethnicity,Asian,,Parnell,2013,14.5,percent
+Ethnicity,Asian,,New Zealand,2013,11.8,percent
+Ethnicity,Asian,,Parnell,2018,19.3,percent
+Ethnicity,Asian,,New Zealand,2018,15.1,percent
+Ethnicity,Asian,,Parnell,2023,24.3,percent
+Ethnicity,Asian,,New Zealand,2023,17.3,percent
+Ethnicity,MELAA,,Parnell,2013,2.5,percent
+Ethnicity,MELAA,,New Zealand,2013,1.2,percent
+Ethnicity,MELAA,,Parnell,2018,3.3,percent
+Ethnicity,MELAA,,New Zealand,2018,1.5,percent
+Ethnicity,MELAA,,Parnell,2023,4.7,percent
+Ethnicity,MELAA,,New Zealand,2023,1.9,percent
+Ethnicity,Other Ethnicity,,Parnell,2013,1.5,percent
+Ethnicity,Other Ethnicity,,New Zealand,2013,1.7,percent
+Ethnicity,Other Ethnicity,,Parnell,2018,1,percent
+Ethnicity,Other Ethnicity,,New Zealand,2018,1.2,percent
+Ethnicity,Other Ethnicity,,Parnell,2023,0.7,percent
+Ethnicity,Other Ethnicity,,New Zealand,2023,1.1,percent
+Language,Maori,,Parnell,2023,1.3,percent
+Language,Maori,,New Zealand,2023,4.3,percent
+Language,Samoan,,Parnell,2023,0.3,percent
+Language,Samoan,,New Zealand,2023,2.2,percent
+Language,Northern Chinese,,Parnell,2023,5.4,percent
+Language,Northern Chinese,,New Zealand,2023,2.2,percent
+Language,Hindi,,Parnell,2023,1,percent
+Language,Hindi,,New Zealand,2023,1.6,percent
+Language,French,,Parnell,2023,4.1,percent
+Language,French,,New Zealand,2023,1.1,percent
+Language,Yue (Cantonese),,Parnell,2023,2,percent
+Language,Yue (Cantonese),,New Zealand,2023,1.1,percent
+Language,Sinitic nfd,,Parnell,2023,3.2,percent
+Language,Sinitic nfd,,New Zealand,2023,1.2,percent
+Language,Tagalog,,Parnell,2023,0.9,percent
+Language,Tagalog,,New Zealand,2023,1.2,percent
+Language,German,,Parnell,2023,1.5,percent
+Language,German,,New Zealand,2023,0.8,percent
+Language,Spanish,,Parnell,2023,3.6,percent
+Language,Spanish,,New Zealand,2023,0.9,percent
+Language,Afrikaans,,Parnell,2023,0.9,percent
+Language,Afrikaans,,New Zealand,2023,1,percent
+Language,Tongan,,Parnell,2023,0.1,percent
+Language,Tongan,,New Zealand,2023,0.8,percent
+Language,Panjabi,,Parnell,2023,0.2,percent
+Language,Panjabi,,New Zealand,2023,1,percent
+Language,NZ Sign Language,,Parnell,2023,0.3,percent
+Language,NZ Sign Language,,New Zealand,2023,0.5,percent
+Language,Other,,Parnell,2023,12.4,percent
+Language,Other,,New Zealand,2023,7.8,percent
+Language,None,,Parnell,2023,1.3,percent
+Language,None,,New Zealand,2023,2.1,percent
